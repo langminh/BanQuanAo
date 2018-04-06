@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5a88ab7c1af8417a82399507ce285ff9" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="databasequanaoModel.Role" Width="1.5" PointX="4" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Customer" Width="1.5" PointX="6.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Import" Width="1.5" PointX="0.5" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_ImportDetail" Width="1.5" PointX="8.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Order" Width="1.5" PointX="8.625" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_OrderDetial" Width="1.5" PointX="11.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Payment" Width="1.5" PointX="12.25" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Producer" Width="1.5" PointX="3.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Product" Width="1.5" PointX="6" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Style" Width="1.5" PointX="3.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Supplier" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Transport" Width="1.5" PointX="12.25" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="databasequanaoModel.tbl_Type" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Customer_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Import_tbl_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_ImportDetail_tbl_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Order_tbl_Payment" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Order_tbl_Transport" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_OrderDetial_tbl_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_OrderDetial_tbl_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Product_tbl_Producer" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Product_tbl_Style" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Product_tbl_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Product_tbl_Type" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="databasequanaoModel.Size" Width="1.5" PointX="8.375" PointY="0.875" />
+        <AssociationConnector Association="databasequanaoModel.FK_tbl_Product_Size" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

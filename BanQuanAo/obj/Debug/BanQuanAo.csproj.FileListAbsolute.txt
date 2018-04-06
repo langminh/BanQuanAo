@@ -1,0 +1,13 @@
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\BanQuanAo.dll.config
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\BanQuanAo.dll
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\BanQuanAo.pdb
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\EntityFramework.dll
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\EntityFramework.xml
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.dll
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.pdb
+C:\Users\langm\source\repos\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.csprojResolveAssemblyReference.cache
